@@ -1,0 +1,11 @@
+id: htpasswd
+key: MT::Plugin::htpasswd
+name: htpasswd
+version: 0.1
+description: <MT_TRANS phrase='description of htpasswd'>
+author_name: Alliance Port, LLC
+author_link: http://www.allianceport.jp/
+l10n_class: htpasswd::L10N
+tags:
+    function:
+        htpasswd: $htpasswd::htpasswd::ContextHandlers::hdlr_tag

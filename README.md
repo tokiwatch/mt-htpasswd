@@ -26,8 +26,4 @@ MovableTypeの任意のテンプレート上で使用することができます
 </html>
 ```
 
-連絡先
-------
-
-作者：[Alliance Port, LLC](http://www.allianceport.jp/)
 
